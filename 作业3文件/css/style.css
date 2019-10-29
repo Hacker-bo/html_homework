@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+}
+.back{
+    background-color:#ffd7b9;
+    width: 70%;
+    margin: auto;
+    padding: 15px 15px 1% 20px;
+ 
+}
+.content{
+    background-color:#ffebcd;
+    padding: 20px;
+    margin: 0px 0px 2px 150px;
+}
+h1{
+    background-color: crimson;
+    margin: 0px;
+    text-align: center;
+}
+#one{
+    border-bottom:solid 1px;
+}
+#html5{
+    color: #d64d2a;
+}
+#boostrap{
+    color: #7b68ee;
+}
+#vue{
+    color: #2e8b57;
+}
+
+.two{
+    border-bottom: solid 1px;
+}
+#houduan{
+    background-color:#ffebcd;
+    padding: 0px 5px 5px 5px;
+    margin: 0px 0px 10px 150px;
+}
+.end{
+    background-color: #d2691e;
+    margin: 0px;
+    text-align: center;
+    padding: 20px;
+}
+#f{
+    background-color: white;
+    float: left;
+    height: 1321px;
+    padding: 4px;
+
+}
+#d{
+    text-indent: 30px;
+
+}
+#hui2{
+    text-indent: 30px;
+}
+#hui3{
+    text-indent: 30px;
+}
+#shujuku{
+    background-color:#ffebcd;
+    padding: 0px 5px 5px 5px;
+    margin: 3px 0px 2px 150px;
+}
+.three{
+    border-bottom: solid 1px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+a:hover{
+    background-color: #d2691e;
+    
+}
+#return{
+    text-align: right;
+    float: right;
+    margin: 4px;
+}
+#enter{
+    float: right;
+    text-align: right;
+    position: fixed;
+    bottom: 60px;
+    right: 100px;
+
+}
+#aa{
+    margin: 0%;
+}
+#return1{
+    text-align: right;
+    float: right;
+    margin: 4px;
+    position: relative;
+    top:15px;
+}
